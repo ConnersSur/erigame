@@ -1,0 +1,13 @@
+https://developer.valvesoftware.com/wiki/SteamCMD
+
+Insurgance Sandstorm
+====================
+appID: 581330
+
+useradd -m steam
+% sudo apt-get install steamcmd
+% sudo yum install steamcmd
+
+% su - steam
+
+% steamcmd +login anonymous +force_install_dir ./insurgency +app_update 581330 +quit
