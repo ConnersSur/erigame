@@ -21,7 +21,7 @@ PlayerJoinedEmptyMessage=<PLAYERNAME> has joined the Insurgency Sandstorm server
 
 [Rcon]
 bEnabled=True
-Password=ericsson
+Password=<some random password>
 ListenPort=27015
 bUseBroadcastAddress=True
 ListenAddressOverride=0.0.0.0
